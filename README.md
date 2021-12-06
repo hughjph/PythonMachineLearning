@@ -1,4 +1,4 @@
-# PythonMachineLearning
+# Python Machine Learning
 Following the tutorial from python machine learning by Alex Campbell
 
 If you are interested in trying this out for yourself, change the function of the model on line 39 [here](model-validation.py) <br>
